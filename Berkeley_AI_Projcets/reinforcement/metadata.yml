@@ -1,0 +1,12 @@
+---
+:id: 58684620
+:submitters:
+- :name: سهراب نمازی نیا
+  :email: sohrabsn7@yahoo.com
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-12-08 16:43:59.680428000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-12-08 08:43:59.680428000 Z
+:status: processed
+:score: 25.0
